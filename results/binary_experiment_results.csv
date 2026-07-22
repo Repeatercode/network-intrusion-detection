@@ -1,0 +1,2 @@
+Experiment,Hidden Layers,Architecture,Activation,Output Activation,Optimizer,Learning Rate,Batch Size,Epochs,Dropout,Batch Normalization,Class Weights,Early Stopping,Parameters,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC-AUC,Training Time Seconds
+Binary Baseline,2,128-64-1,ReLU,Sigmoid,Adam,0.001,256,30,0.0,False,False,False,32769,0.8922841776880479,0.9866297207743135,0.8533027207749223,0.9151355844622677,0.9837120031644018,11.59468674659729
