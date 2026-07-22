@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 data/raw/*.csv
 .ipynb_checkpoints/
+results/*.npy
+models/*.keras
+models/*.h5
